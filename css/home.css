@@ -1,0 +1,38 @@
+.items {
+    text-align : center;
+}
+
+.row{
+    justify-content:center;
+}
+
+/* .container{
+    background-image: url(images/cell.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+} */
+
+body {
+    background-image: url(images/cell.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.money {
+background-image: url(images/dragonball.png);
+background-repeat: no-repeat;
+background-size: contain;
+margin-right: 25px;
+margin-top: 10px;
+}
+
+#returnChange{
+margin-top: 10px;
+}
+
+.itemButton{
+    border-radius: 25px;
+    padding: 20px;
+}
